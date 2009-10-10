@@ -1,11 +1,9 @@
-import helloworld.*
 import org.nazt.lexto.*
 import groovy.util.*
 import java.*
 import groovy.util.*
 
 class JavaController {
-	//static LongLexTo tokenizer=servletContext.tokenizer
 	def myTypeList,myIndexList=[]
     def index = { 
 		println System.getProperty("user.dir");

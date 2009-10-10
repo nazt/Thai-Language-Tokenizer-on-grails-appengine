@@ -1,4 +1,3 @@
-import helloworld.*
 import org.nazt.lexto.*
 import groovy.util.*
 import java.*
