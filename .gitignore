@@ -1,2 +1,6 @@
+/web-app/WEB-INF
+test/reports
+*.war
+.DS_STORE
 stacktrace.log
 target/**
