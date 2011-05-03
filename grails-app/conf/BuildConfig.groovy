@@ -1,0 +1,1 @@
+google.appengine.sdk = "/Users/NAzT/Frameworks/appengine-java-sdk-1.4.3"

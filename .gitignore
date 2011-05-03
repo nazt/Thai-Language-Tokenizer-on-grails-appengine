@@ -4,3 +4,5 @@ test/reports
 .DS_STORE
 stacktrace.log
 target/**
+web-app/WEB-INF
+target
